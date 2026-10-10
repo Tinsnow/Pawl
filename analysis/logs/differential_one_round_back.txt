@@ -1,0 +1,24 @@
+target difference after round 1: 218+474
+  p=2^-5.41  input difference: 156+214+245+412+501
+  p=2^-6.41  input difference: 156+214+215+245+412+501
+  p=2^-6.42  input difference: 156+157+214+245+412+501
+target difference after round 1: 77+333
+  p=2^-5.43  input difference: 29+91+111+285+347
+  p=2^-6.42  input difference: 29+91+92+111+285+347
+  p=2^-6.42  input difference: 29+30+91+111+285+347
+target difference after round 1: 127+383
+  p=2^-4.99  input difference: 15+77+97+271+333
+  p=2^-5.99  input difference: 15+16+77+97+271+333
+  p=2^-6.00  input difference: 15+77+78+97+271+333
+target difference after round 1: 63+319
+  p=2^-5.00  input difference: 29+45+248+301+504
+  p=2^-5.99  input difference: 29+45+46+248+301+504
+  p=2^-6.00  input difference: 29+45+248+249+301+504
+target difference after round 1: 255+511
+  p=2^-4.99  input difference: 129+218+251+385+474
+  p=2^-5.99  input difference: 129+218+219+251+385+474
+  p=2^-6.01  input difference: 129+130+218+251+385+474
+target difference after round 1: 191+447
+  p=2^-5.01  input difference: 87+133+137+343+389
+  p=2^-5.99  input difference: 87+133+134+137+343+389
+  p=2^-6.00  input difference: 87+88+133+137+343+389

@@ -1,0 +1,4 @@
+FWD r=7 N=2^30 diff=156+214+245+412+501 chi z= +15.52  max|z|=  7.19 at out bit 128 (bias 1.10e-04)   [ideal: chi z~N(0,1), max|z|~3.9]
+FWD r=7 N=2^30 diff=29+91+111+285+347 chi z= +11.17  max|z|=  4.37 at out bit 288 (bias 6.67e-05)   [ideal: chi z~N(0,1), max|z|~3.9]
+FWD r=8 N=2^30 diff=156+214+245+412+501 chi z=  -0.02  max|z|=  3.17 at out bit 433 (bias 4.83e-05)   [ideal: chi z~N(0,1), max|z|~3.9]
+FWD r=8 N=2^30 diff=29+91+111+285+347 chi z=  -0.95  max|z|=  2.87 at out bit 367 (bias 4.38e-05)   [ideal: chi z~N(0,1), max|z|~3.9]

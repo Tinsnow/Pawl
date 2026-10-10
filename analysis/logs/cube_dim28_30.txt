@@ -1,0 +1,6 @@
+cube r=4 dim=28 spread trials=8: output bits with zero sum in ALL trials =   2/512 (ideal 2.00), fraction of ones = 0.4883 (z=-1.5)
+cube r=5 dim=28 spread trials=8: output bits with zero sum in ALL trials =   6/512 (ideal 2.00), fraction of ones = 0.5044 (z=+0.6)
+cube r=4 dim=28 rand   trials=8: output bits with zero sum in ALL trials =   2/512 (ideal 2.00), fraction of ones = 0.4966 (z=-0.4)
+cube r=5 dim=28 rand   trials=8: output bits with zero sum in ALL trials =   2/512 (ideal 2.00), fraction of ones = 0.5012 (z=+0.2)
+cube r=5 dim=30 lowb   trials=6: output bits with zero sum in ALL trials =   8/512 (ideal 8.00), fraction of ones = 0.4941 (z=-0.6)
+cube r=6 dim=30 lowb   trials=6: output bits with zero sum in ALL trials =   4/512 (ideal 8.00), fraction of ones = 0.5104 (z=+1.2)

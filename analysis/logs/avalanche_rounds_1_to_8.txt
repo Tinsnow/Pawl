@@ -1,0 +1,16 @@
+FWD r= 1 N=8192  never=227106 always=1280  max|bias|=0.50000 (ideal~0.02835) at in=0 out=0  chi2 z=+2872447.8
+FWD r= 2 N=8192  never= 94038 always=1504  max|bias|=0.50000 (ideal~0.02835) at in=0 out=17  chi2 z=+2336996.5
+FWD r= 3 N=8192  never=  1807 always=  79  max|bias|=0.50000 (ideal~0.02835) at in=0 out=49  chi2 z=+866667.3
+FWD r= 4 N=8192  never=     0 always=   0  max|bias|=0.49597 (ideal~0.02835) at in=63 out=64  chi2 z=+29997.6
+FWD r= 5 N=8192  never=     0 always=   0  max|bias|=0.04541 (ideal~0.02835) at in=255 out=128  chi2 z=+14.5
+FWD r= 6 N=8192  never=     0 always=   0  max|bias|=0.02515 (ideal~0.02835) at in=477 out=30  chi2 z=+1.0
+FWD r= 7 N=8192  never=     0 always=   0  max|bias|=0.02673 (ideal~0.02835) at in=37 out=320  chi2 z=-0.3
+FWD r= 8 N=8192  never=     0 always=   0  max|bias|=0.02600 (ideal~0.02835) at in=266 out=421  chi2 z=-1.5
+INV r= 1 N=8192  never=228037 always=1280  max|bias|=0.50000 (ideal~0.02835) at in=0 out=0  chi2 z=+2883649.8
+INV r= 2 N=8192  never= 96949 always=1360  max|bias|=0.50000 (ideal~0.02835) at in=0 out=8  chi2 z=+2337668.5
+INV r= 3 N=8192  never=  1963 always=  76  max|bias|=0.50000 (ideal~0.02835) at in=192 out=456  chi2 z=+782838.2
+INV r= 4 N=8192  never=     0 always=   0  max|bias|=0.40381 (ideal~0.02835) at in=502 out=505  chi2 z=+18522.5
+INV r= 5 N=8192  never=     0 always=   0  max|bias|=0.02783 (ideal~0.02835) at in=15 out=168  chi2 z=+8.0
+INV r= 6 N=8192  never=     0 always=   0  max|bias|=0.02478 (ideal~0.02835) at in=85 out=103  chi2 z=-0.8
+INV r= 7 N=8192  never=     0 always=   0  max|bias|=0.03027 (ideal~0.02835) at in=295 out=498  chi2 z=+0.8
+INV r= 8 N=8192  never=     0 always=   0  max|bias|=0.02588 (ideal~0.02835) at in=183 out=2  chi2 z=+1.1

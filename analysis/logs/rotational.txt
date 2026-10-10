@@ -1,0 +1,4 @@
+WITHOUT round constants: mean Hamming distance between P(rot1(x)) and rot1(P(x)) (256 = unrelated)
+   r1: 13.7 (exact pairs seen)  r2: 61.1  r3: 182.0  r4: 250.2  r5: 255.8  r6: 256.0  r7: 255.8  r8: 256.2  
+WITH round constants: mean Hamming distance between P(rot1(x)) and rot1(P(x)) (256 = unrelated)
+   r1: 112.8  r2: 251.1  r3: 256.1  r4: 256.0  r5: 255.8  r6: 256.0  r7: 256.0  r8: 256.0  

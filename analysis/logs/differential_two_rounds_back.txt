@@ -1,0 +1,8 @@
+target difference after round 2: 218+474
+  p=2^-17.98  input difference: 116+162+166+183+208+372+418+439+464+497
+  p=2^-19.09  input difference: 116+162+166+183+184+208+372+418+439+464+497
+  p=2^-19.19  input difference: 116+162+166+183+208+242+372+418+439+464+497
+target difference after round 2: 77+333
+  p=2^-17.68  input difference: 11+43+59+105+214+267+299+361+381+470
+  p=2^-18.57  input difference: 11+43+59+105+214+215+267+299+361+381+470
+  p=2^-18.68  input difference: 11+43+59+105+126+127+214+267+299+361+381+470
