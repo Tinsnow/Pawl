@@ -1,6 +1,6 @@
 # Analysis tools
 
-These programs chose Pawl's constants and attack its permutation with reduced round counts. `./run_all.sh` rebuilds them and reruns the quick experiments; the slow ones are listed at the bottom of that script with their run times. `logs/` holds the output of the runs quoted in the main README.
+These programs chose Pawl's constants and attack its permutation with reduced round counts. `bash run_all.sh` rebuilds them and reruns the quick experiments; the slow ones are listed at the bottom of that script with their run times. `logs/` holds the output of the runs quoted in the main README.
 
 All bit numbers are positions in the 512-bit state: word `w`, bit `k` is number `64*w + k`, with words 0 to 3 the `a` row and words 4 to 7 the `b` row.
 
