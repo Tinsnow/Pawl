@@ -1,0 +1,48 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting BigCrush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = vm, Linux
+
+Pawl-24 forward
+
+
+sspectral_Fourier3 test:
+-----------------------------------------------
+   N = 100000,  n = 16384,  r =  0,   s =    3,   k =   14
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    : 4.96e-3
+p-value of test                       :    0.81
+
+Kolmogorov-Smirnov- statistic = D-    :   0.011
+p-value of test                       :    0.35
+
+Anderson-Darling statistic = A2       :    0.80
+p-value of test                       :    0.48
+
+-----------------------------------------------
+CPU time used                    :  00:00:46.95
+
+Generator state:
+
+
+
+
+
+========= Summary results of BigCrush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Pawl-24 forward
+ Number of statistics:  1
+ Total CPU time:   00:00:46.95
+
+ All tests were passed
+
+
+

@@ -1,0 +1,55 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting BigCrush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = vm, Linux
+
+Pawl-24 forward
+
+
+sstring_AutoCor test:
+-----------------------------------------------
+   N = 10,  n = 1000000030,  r =  0,   s = 3,   d = 1
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.063
+p-value of test                       :    0.89
+
+Kolmogorov-Smirnov- statistic = D-    :    0.33
+p-value of test                       :    0.09
+
+Anderson-Darling statistic = A2       :    1.30
+p-value of test                       :    0.23
+
+Tests on the sum of all N observations
+Standardized normal statistic         :    1.41
+p-value of test                       :    0.08
+
+Sample variance                       :    1.21
+p-value of test                       :    0.28
+
+-----------------------------------------------
+CPU time used                    :  00:03:15.71
+
+Generator state:
+
+
+
+
+
+========= Summary results of BigCrush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Pawl-24 forward
+ Number of statistics:  1
+ Total CPU time:   00:03:15.71
+
+ All tests were passed
+
+
+

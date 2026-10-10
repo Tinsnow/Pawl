@@ -1,0 +1,9 @@
+seed avalanche: flipping 1 seed bit changes 255.96 of 512 output bits on average (ideal 256), range 199..308 over 16384 trials
+stream avalanche: stream n vs n+1 differ in 255.95 of 512 bits on average (ideal 256)
+below(3): chi-square z = -0.12 over 2000600 draws (|z| < 4 expected)
+below(6): chi-square z = -0.10 over 2001200 draws (|z| < 4 expected)
+below(10): chi-square z = -0.86 over 2002000 draws (|z| < 4 expected)
+below(1000): chi-square z = -0.10 over 2200000 draws (|z| < 4 expected)
+below(65537): chi-square z = +0.04 over 15107400 draws (|z| < 4 expected)
+double: min 1.07e-07 max 0.999999967 mean 0.500029 (0.5) variance 0.083339 (0.083333) chi-square z = -0.12
+selftest ok

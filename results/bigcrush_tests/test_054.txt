@@ -1,0 +1,48 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting BigCrush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = vm, Linux
+
+Pawl-24 forward
+
+
+svaria_SampleMean test:
+-----------------------------------------------
+   N = 20000000,  n = 30,  r = 10
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    : 1.02e-4
+p-value of test                       :    0.66
+
+Kolmogorov-Smirnov- statistic = D-    : 1.47e-4
+p-value of test                       :    0.42
+
+Anderson-Darling statistic = A2       :    0.45
+p-value of test                       :    0.80
+
+-----------------------------------------------
+CPU time used                    :  00:00:23.44
+
+Generator state:
+
+
+
+
+
+========= Summary results of BigCrush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Pawl-24 forward
+ Number of statistics:  1
+ Total CPU time:   00:00:23.44
+
+ All tests were passed
+
+
+

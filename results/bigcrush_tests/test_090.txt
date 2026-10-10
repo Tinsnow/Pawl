@@ -1,0 +1,53 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting BigCrush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = vm, Linux
+
+Pawl-24 forward
+
+
+sstring_HammingWeight2 test:
+-----------------------------------------------
+   N = 10,  n = 1000000000,  r =  0,   s = 3,   L = 1000000
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.48
+p-value of test                       :  5.6e-3
+
+Kolmogorov-Smirnov- statistic = D-    : 4.65e-3
+p-value of test                       :    0.9952
+
+Anderson-Darling statistic = A2       :    2.99
+p-value of test                       :    0.03
+
+Test on the sum of all N observations
+Number of degrees of freedom          : 10000
+Chi-square statistic                  : 9677.52
+p-value of test                       :    0.99
+
+-----------------------------------------------
+CPU time used                    :  00:01:36.31
+
+Generator state:
+
+
+
+
+
+========= Summary results of BigCrush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Pawl-24 forward
+ Number of statistics:  1
+ Total CPU time:   00:01:36.31
+
+ All tests were passed
+
+
+

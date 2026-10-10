@@ -1,0 +1,71 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting BigCrush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = vm, Linux
+
+Pawl-24 forward
+
+
+sknuth_MaxOft test:
+-----------------------------------------------
+   N = 40,  n = 10000000,  r =  0,   d = 100000,   t =  8
+
+      Number of categories = 100000
+      Expected number per category  = 100.00
+
+
+-----------------------------------------------
+Test results for chi2 with 99999 degrees of freedom:
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.032
+p-value of test                       :    0.90
+
+Kolmogorov-Smirnov- statistic = D-    :    0.16
+p-value of test                       :    0.12
+
+Anderson-Darling statistic = A2       :    0.91
+p-value of test                       :    0.41
+
+Test on the sum of all N observations
+Number of degrees of freedom          : 3999960
+Chi-square statistic                  : 4.00e+6
+p-value of test                       :    0.13
+
+
+-----------------------------------------------
+Test results for Anderson-Darling:
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.15
+p-value of test                       :    0.15
+
+Kolmogorov-Smirnov- statistic = D-    :   0.058
+p-value of test                       :    0.74
+
+Anderson-Darling statistic = A2       :    1.00
+p-value of test                       :    0.36
+
+
+-----------------------------------------------
+CPU time used                    :  00:02:41.55
+
+Generator state:
+
+
+
+
+
+========= Summary results of BigCrush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Pawl-24 forward
+ Number of statistics:  2
+ Total CPU time:   00:02:41.55
+
+ All tests were passed
+
+
+

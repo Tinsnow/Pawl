@@ -1,0 +1,31 @@
+gcc 13.3 -O2, Intel Xeon 2.8 GHz (cloud VM), single thread. Five runs; the README quotes the medians.
+run 1
+pawl               453 MB/s   17.66 ns per 64-bit value
+chacha20           422 MB/s   18.97 ns per 64-bit value
+xoshiro256++      7333 MB/s    1.09 ns per 64-bit value
+mt19937-64        2982 MB/s    2.68 ns per 64-bit value
+run 2
+pawl               449 MB/s   17.81 ns per 64-bit value
+chacha20           420 MB/s   19.05 ns per 64-bit value
+xoshiro256++      7041 MB/s    1.14 ns per 64-bit value
+mt19937-64        2755 MB/s    2.90 ns per 64-bit value
+run 3
+pawl               415 MB/s   19.27 ns per 64-bit value
+chacha20           409 MB/s   19.54 ns per 64-bit value
+xoshiro256++      6906 MB/s    1.16 ns per 64-bit value
+mt19937-64        2885 MB/s    2.77 ns per 64-bit value
+run 4
+pawl               453 MB/s   17.66 ns per 64-bit value
+chacha20           414 MB/s   19.33 ns per 64-bit value
+xoshiro256++      7182 MB/s    1.11 ns per 64-bit value
+mt19937-64        3010 MB/s    2.66 ns per 64-bit value
+run 5
+pawl               453 MB/s   17.65 ns per 64-bit value
+chacha20           420 MB/s   19.05 ns per 64-bit value
+xoshiro256++      7196 MB/s    1.11 ns per 64-bit value
+mt19937-64        2969 MB/s    2.69 ns per 64-bit value
+
+openssl speed -evp chacha20 -bytes 65536 (bytes per second, in thousands), three runs:
+ChaCha20       3869536.71k
+ChaCha20       3686849.10k
+ChaCha20       3991374.09k
